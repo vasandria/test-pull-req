@@ -3,4 +3,4 @@
 
 Список соавторов
 1. @nzhukov и компания
-2. [vasandria](https://github.com/vasandria)
+2. [Vasandria](https://github.com/vasandria)
